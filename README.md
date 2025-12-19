@@ -44,7 +44,7 @@ The repository’s datasets and analyses aim to replicate and extend these insig
 - **Tableau** was used to create export volume trend visuals by year and partner country.
 - Visuals include bar charts, line trends, and country comparisons.
 
-![Export Trend analysis](images/"Export_data.png")
+![Export Trend analysis](images/Export_data.png)
 
 ### Price Analytics
 - **Python** (Pandas, Matplotlib/Seaborn) was used to:
@@ -52,13 +52,13 @@ The repository’s datasets and analyses aim to replicate and extend these insig
   - generate price trend charts,
   - calculate basic descriptive statistics.
 
-![Local price analysis](images/"Local_price_analysis_per_kg.png")
+![Local price analysis](images/Local_price_analysis_per_kg.png)
 
 ### Competitor & Price Comparisons
 - Additional price and competitor data were analysed in **Excel**,
   with comparisons between local market prices and typical export rates.
 
-![Competitor price analysis](images/"Competitor_analysis.png")
+![Competitor price analysis](images/Competitor_analysis.png)
 ---
 
 ## Key Insights
