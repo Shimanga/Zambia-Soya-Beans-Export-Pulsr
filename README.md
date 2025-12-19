@@ -49,6 +49,7 @@ The repository’s datasets and analyses aim to replicate and extend these insig
   - load and clean export price data,
   - generate price trend charts,
   - calculate basic descriptive statistics.
+    (images/Local price analysis per kg.png)
 
 ### Competitor & Price Comparisons
 - Additional price and competitor data were analysed in **Excel**,
