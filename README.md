@@ -77,8 +77,8 @@ The repository’s datasets and analyses aim to replicate and extend these insig
 ## Notes & References
 
 The export figures in this project draw on international trade statistics for Zambia:
-- Zambia exported ~USD 21.5 million of soya beans in 2021. 3
-- Export value dropped to approximately USD 12.3 million in 2022. 4
+- Zambia exported ~USD 21.5 million of soya beans in 2021.
+- Export value dropped to approximately USD 12.3 million in 2022.
 
 Additional data sources and contextual notes can be added once production and local pricing datasets are included.
 As cited in the original article:
