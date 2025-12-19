@@ -46,6 +46,8 @@ The repository’s datasets and analyses aim to replicate and extend these insig
 - Visuals include bar charts, line trends, and country comparisons.
 
 ![Export Trend analysis](Images/Export_data.png)
+Figure 3: Export Unit Prices and Quantity by destination(USD/KG, 2021-2022). Blank values indicate years with no recorded exports to that destination
+View interactive dashboard on Tableau Public: https://public.tableau.com/app/profile/shimanga.mubitana/viz/Book1_17648309333440/Dashboard1
 
 ### Price Analytics
 - **Python** (Pandas, Matplotlib/Seaborn) was used to:
@@ -55,11 +57,15 @@ The repository’s datasets and analyses aim to replicate and extend these insig
 
 ![Local price analysis](Images/Local_price_analysis_per_kg.png)
 
+Figure 4:Local FRA prices(ZMW/KG
+
 ### Competitor & Price Comparisons
 - Additional price and competitor data were analysed in **Excel**,
   with comparisons between local market prices and typical export rates.
 
 ![Competitor price analysis](Images/Competitor_analysis.png)
+
+Figure 5: Zambia vs regional export competitors
 ---
 
 ## Key Insights
