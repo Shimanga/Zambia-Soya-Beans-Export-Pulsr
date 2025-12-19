@@ -69,7 +69,7 @@ The repository’s datasets and analyses aim to replicate and extend these insig
 1. Clone this repository.
 2. Open the `data/` folder to explore raw and cleaned datasets.
 3. View visualizations in `analysis/` or `dashboards/`.
-4. Run the Python notebook in a Jupyter environment (`price_analysis.ipynb`).
+4. Run the Python notebook in a Jupyter environment (`soya_beans_local_price_analysis.py`).
 5. Update visual assets as available (Tableau/Excel dashboards).
 
 ---
